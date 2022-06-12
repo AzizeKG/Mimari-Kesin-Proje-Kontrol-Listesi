@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Text>Mimari Kesin Proje Kontrol Listesi Addin</Text>
+			<Description>Description for Mimari Kesin Proje Kontrol Listesi addin.</Description>
+			<Assembly>C:\Users\azize\source\repos\Mimari Kesin Proje Kontrol Listesi\Mimari Kesin Proje Kontrol Listesi\bin\Debug\Mimari Kesin Proje Kontrol Listesi.dll</Assembly>
+			<FullClassName>Mimari_Kesin_Proje_Kontrol_Listesi.Class1</FullClassName>
+			<ClientId>c14dd8af-4ee4-4e33-bf13-dd4c6efcd3e1</ClientId>
+			<VendorId>AZKG</VendorId>
+			<VendorDescription>AZKG, azizekrdgn@gmail.com</VendorDescription>
+	</AddIn>
+	
+</RevitAddIns>
