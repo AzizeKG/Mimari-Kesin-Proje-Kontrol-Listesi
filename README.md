@@ -1,0 +1,1 @@
+Mimari Kesin Proje Kontrol Listesi
